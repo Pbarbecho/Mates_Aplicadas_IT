@@ -2,7 +2,6 @@
     <div class="inline-block">
         <img src ="images/ucuenca.png">
     </div>
-
     <div class="inline-block">
         <img src ="images/ucuenca.png">
     </div>
