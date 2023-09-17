@@ -1,11 +1,14 @@
-<p align="left">
-  <img width="300" height="70" src="images/ucuenca.png">
-</p>
 
-<p align="rigth">
-  <img width="300" height="70" src="images/fingenieria.png">
-</p>
 
+  <div id="banner">
+    <div class="inline-block">
+        <img src ="images/ucuenca.png">
+    </div>
+
+    <div class="inline-block">
+        <img src ="images/fingenieria.jpg">
+    </div>
+</div>
 
 <h1 align="center">Matemáticas Aplicadas</h1>
 
