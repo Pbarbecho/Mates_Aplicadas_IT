@@ -1,9 +1,6 @@
 <div class="row">
   <div class="column">
-    <img src="images/ucuenca.png" alt="Snow" style="width:10%">
-  </div>
-  <div class="column">
-    <img src="images/ucuenca.png" alt="Forest" style="width:10%">
+    <img src="images/ucuenca.png" alt="Snow" style="width:20%">
   </div>
 </div>
 
