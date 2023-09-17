@@ -11,8 +11,8 @@
 Python es un lenguaje de programación de varios paradigmas (multi-paradigma) utilizado por empresas emergentes y gigantes tecnológicos como Google, Facebook, Netflix y más. Con una sintaxis intuitiva y legible, Python es un excelente primer lenguaje de programación para aprender. Durante el presente curso usaremos esta herramienta para afianzar los conocimientos teóricos. 
 </p>
 
-# Campos Escalares 2D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_2d.ipynb)
-# Campos Escalares 3D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_2d.ipynb)
+#### Campos Escalares 2D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_2d.ipynb)
+#### Campos Escalares 3D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_2d.ipynb)
 
 
 ## Authors ##
