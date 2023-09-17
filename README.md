@@ -1,8 +1,11 @@
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="images/ucuenca.png">
-    </div>
+<div class="row">
+  <div class="column">
+    <img src="images/ucuenca.png" alt="Snow" style="width:100%">
   </div>
+  <div class="column">
+    <img src="images/ucuenca.png" alt="Forest" style="width:100%">
+  </div>
+</div>
 
 <h1 align="center">Matemáticas Aplicadas</h1>
 
