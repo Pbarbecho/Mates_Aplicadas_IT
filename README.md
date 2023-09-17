@@ -12,7 +12,7 @@ Python es un lenguaje de programación de varios paradigmas (multi-paradigma) ut
 </p>
 
 #### Campos Escalares 2D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_2d.ipynb)
-#### Campos Escalares 3D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_2d.ipynb)
+#### Campos Escalares 3D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Pbarbecho/Mates_Aplicadas_IT/blob/main/notebooks/campo_escalar_3d.ipynb)
 
 
 ## Authors ##
