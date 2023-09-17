@@ -16,17 +16,11 @@ Python es un lenguaje de programación de varios paradigmas (multi-paradigma) ut
 
 </p>
 
-
 ### Laboratorio 1 (Intro Jupyter Notebooks): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/Introduccion_Jupyter.ipynb)
 
 
 # Clases - Empty notebook
 
-<p align="justify">
-Puede utilizar este cuaderno vacío durante las clases para probar la sintaxis o partes del código revisado [Binder]. 
-</p>
-
-###  Empty notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pbarbecho/Curso_Python.git/main?labpath=/ejercicios/clases.ipynb)
 
 -->
 
