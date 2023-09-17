@@ -1,4 +1,4 @@
-<div class="row">
+<div align="center" class="row">
   <div class="column">
     <img src="images/ucuenca.png" alt="Snow" style="width:20%">
   </div>
