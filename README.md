@@ -1,4 +1,4 @@
-  <div id="banner">
+<div id="banner">
     <div class="inline-block">
         <img src ="images/ucuenca.png">
     </div>
