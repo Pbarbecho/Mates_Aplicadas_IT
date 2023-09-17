@@ -1,12 +1,10 @@
-
-
   <div id="banner">
     <div class="inline-block">
         <img src ="images/ucuenca.png">
     </div>
 
     <div class="inline-block">
-        <img src ="images/fingenieria.jpg">
+        <img src ="images/ucuenca.png">
     </div>
 </div>
 
